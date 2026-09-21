@@ -96,14 +96,12 @@ NutriSense is built on a **modular, client-cloud hybrid architecture** using:
 
 ---
 
-## 🔮 Future Enhancements
+## Future Improvements
 
-- In-app chat with dietitians and experts
-- Barcode & voice-based meal logging
-- Advanced analytics dashboards
-- Multilingual and localized UI
-- Enhanced wearable support (real-time sync)
-
+- Add automated tests
+- Improve error handling
+- Add more screenshots
+- Deploy the backend API
 ---
 
 > 🚧 *This application is part of a final-year academic project. All rights reserved to the author.*
