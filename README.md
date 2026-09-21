@@ -3,7 +3,7 @@
 
 **NutriSense** is an AI-powered mobile application that helps users achieve their health, fitness, and nutrition goals through personalized guidance, cultural sensitivity, and intelligent automation.
 
-Developed using modern mobile technologies, NutriSense delivers tailored meal plans, AI-based food analysis, fitness tracking, and offline support — all in one seamless platform.
+Developed using modern mobile technologies, NutriSense delivers tailored meal plans, AI-based food analysis, fitness tracking, and offline support  all in one seamless platform.
 
 ---
 
