@@ -95,9 +95,7 @@ NutriSense is built on a **modular, client-cloud hybrid architecture** using:
 **Supervisor:** Mr. Arjumand Yar Khan
 
 ---
-
 ## Future Improvements
-
 - Add automated tests
 - Improve error handling
 - Add more screenshots
