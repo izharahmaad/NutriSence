@@ -101,8 +101,6 @@ NutriSense is built on a **modular, client-cloud hybrid architecture** using:
 - Add automated tests
 - Improve error handling
 - Add more screenshots
-- Deploy the backend API
----
 
 > 🚧 *This application is part of a final-year academic project. All rights reserved to the author.*
 
