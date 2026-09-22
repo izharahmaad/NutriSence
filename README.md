@@ -4,7 +4,7 @@
 
 NutriSense is an AI-powered mobile application that helps users make informed decisions about nutrition, fitness, hydration, and daily wellbeing. The application combines personalized nutrition guidance, AI-assisted food image analysis, culturally aware meal recommendations, health tracking, reminders, and offline support in one mobile experience.
 
-NutriSense uses a Python-based AI/ML food-analysis service to process food images and provide estimated nutritional information, including calories, carbohydrates, protein, fats, and other relevant nutrients where supported.
+NutriSense uses a Python-based AI food-analysis service to process food images and provide estimated nutritional information, including calories, carbohydrates, protein, fats, and other relevant nutrients where supported.
 
 > **Project status:** NutriSense is a final-year academic project under active development. It is intended for educational and wellness-support purposes and is not a substitute for professional medical advice.
 
@@ -207,7 +207,7 @@ NutriSense follows a modular client-cloud architecture with a Python AI/ML servi
 │              NutriSense Mobile App          │
 │       React Native + Expo + TypeScript      │
 ├─────────────────────────────────────────────┤
-│ UI Screens • Navigation • State • Validation │
+│ UI Screens • Navigation • State • Validation│
 │ Nutrition • Health • Workout • Notifications│
 └───────────────┬───────────────┬─────────────┘
                 │               │
